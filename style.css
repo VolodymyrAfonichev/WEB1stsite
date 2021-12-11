@@ -1,0 +1,26 @@
+
+body {
+  background: #F5EEDC;
+  line-height: 1.5;
+  font-weight: bold;
+}
+hr {
+background-color: #4F091D;
+border: 0;
+border-style: none;
+height: 2px;
+}
+h1 {
+  color: #4F091D;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.orange{
+  color: orange;
+}
+.blue{
+  color: blue;
+}
+p {
+    font-family: Times New Roman, Times, serif;
+    font-style: italic;
+   }
